@@ -1,7 +1,7 @@
 # Resume V 2.0
 ## Profile
 
-Detail-oriented IT professional with years of experience as a systems/network technician. Skilled at operating a wide range of platforms. Excellent written and oral communication skills; capable of explaining complex software/technical issues in easy-to-understand terms.
+Detail oriented IT professional with years of experience as a systems/network technician. Skilled at operating a wide range of platforms. Excellent written and oral communication skills; capable of explaining complex software/technical issues in easy-to-understand terms.
 
 ## Experience
 **IT Systems Analysts, [DecisionOne](https://decisionone.com) ;**  [St. Paul , MN](http://maps.apple.com/?q=St.%20Paul%20,%20MN)  — 11/15/2016 - 10/09/2017
@@ -24,7 +24,7 @@ I provided property data analysis and reports for the claims and underwriting de
 
 I was responsible for general clerical duties, filing, faxing and light accounting.
 
-**Quality Assurance Analyst, Visionary Services**; Miami, FL — 10/2012 - 1/2013
+**Quality Assurance Analyst, [Visionary Services](http://www.visionary.com)**; Miami, FL — 10/2012 - 1/2013
 
 While at Visionary I provided administrative duties pertaining to the quality control of a major client’s website and mapping database making sure the data was accurate and up to date.
 
