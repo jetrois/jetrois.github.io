@@ -32,7 +32,7 @@ While at Visionary I provided administrative duties pertaining to the quality co
 
 I was responsible for maintenance and upkeep of company computers and network resources; investigating and procuring computer resources for the company. I was also charged with the maintenance and upkeep of the company websites and domains.
 
-**Clerk, Events Office and Consultants;** Miami, FL — 09/2007 - 02/2011
+**Clerk, [Events Office and Consultants](http://www.eocpeople.com);** Miami, FL — 09/2007 - 02/2011
 
 I provided customer service and basic clerical duties for clients during major trade shows.
 
@@ -43,3 +43,4 @@ Broward College — Computer Information Systems, Currently Enrolled
 ## Skills
 
 Basic network Administration, troubleshooting, maintaining MS Windows, Mac, and Linux computers. mobile device maintenance and administration.
+
