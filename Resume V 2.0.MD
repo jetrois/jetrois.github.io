@@ -4,9 +4,9 @@
 Detail oriented IT professional with years of experience as a systems/network technician. Skilled at operating a wide range of platforms. Excellent written and oral communication skills; capable of explaining complex software/technical issues in easy-to-understand terms.
 
 ## Experience
-**IT Systems Analysts, [DecisionOne](https://decisionone.com) ;**  [St. Paul , MN](http://maps.apple.com/?q=St.%20Paul%20,%20MN)  — 11/15/2016 - 10/09/2017
+**IT Systems Analysts, [DecisionOne](https://decisionone.com) ;**  [Bloomington , MN](http://maps.apple.com/?q=Bloomington,%20MN)  — 10/10/2017 - Current
 
-While working for Alorica was responsible for many customer service oriented tasks such as medical insurance based inbound calls and operation of proprietary software such as AS/400 for insurance verification.
+During my employment at DecisionOne I was responsible for many level one IT tasks such as inbound call trouble shooting windows clients/Active Directory accounts, networked printers and troubleshooting of proprietary software.
 
 **Pharmacy Help Desk, [Alorica](https://www.alorica.com);** St. Paul , MN — 11/15/2016 - 10/09/2017
 
