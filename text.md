@@ -70,3 +70,8 @@ Client-Server Application Development – C193: This course basically requires y
 IT Capstone Written Project – C769: Had a code project already completed. Just wrote as much as I could about every little detail of it to get it to the required length.
 
 And that's all of it. Hopefully it helps people in the future. Thanks again.
+
+
+
+** 15 Credits Transferred.**
+** 107 Credits to Finish ** 
