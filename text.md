@@ -73,5 +73,6 @@ And that's all of it. Hopefully it helps people in the future. Thanks again.
 
 
 
-** 15 Credits Transferred.**
-** 107 Credits to Finish ** 
+ **15 Credits Transferred**
+**107 Credits to Finish** 
+ **98 Credits After A++**
