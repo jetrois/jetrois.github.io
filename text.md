@@ -14,7 +14,7 @@ Introduction to IT – C182: Read the course materials and did all the interacti
 
 Critical Thinking and Logic – C168: Read some of the course materials. Once I got a feel for what answers they were looking for I just wrote the PA and OA and passed.
 
-English Composition I – C455: Have to write 4 essays. For sources I tried to use statistics from .gov and .org websites as much as possible. They are easy to find and use eg. The solar industry in the US grew 45% last year (Example.gov, 2017). Saved time instead of reading confusing academic journals looking for information to support my thesis.
+**~~English Composition I~~** – C455: Have to write 4 essays. For sources I tried to use statistics from .gov and .org websites as much as possible. They are easy to find and use eg. The solar industry in the US grew 45% last year (Example.gov, 2017). Saved time instead of reading confusing academic journals looking for information to support my thesis.
 
 Integrated Physical Sciences – C165: Read through the learning resource, did some quiz's on quizlet.
 
