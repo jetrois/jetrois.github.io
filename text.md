@@ -22,15 +22,14 @@ College Algebra – C278: Completed all the practise questions on the Hawkes lea
 
 Introduction to Probability and Statistics – C459: Read through all the course material and did the practise problems. Did poorly on the section where you have to calculate probability with the formulas. Found the OA to be easier than the PA.
 
-English Composition II – C456: It's just a really long essay. Chose 4 points to support my thesis statement. Tried a make each point a mini essay of 1-2 pages.
+**~~English Composition II~~** – C456: It's just a really long essay. Chose 4 points to support my thesis statement. Tried a make each point a mini essay of 1-2 pages.
 
-Introduction to Geography – C255: Skimmed through the learning material. Did some quiz's on quizlet.
-
-Introduction to Communication – C464: The OA was just common sense to me. Didn't study at all for it. For the video presentation I just used one of my essay's but rewrote it on cue cards and changed the sentence structure so it flowed better while presenting.
+**~~Introduction to Geography~~** – C255: Skimmed through the learning material. Did some quiz's on quizlet.
+was just common sense to me. Didn't study at all for it. For the video presentation I just used one of my essay's but rewrote it on cue cards and changed the sentence structure so it flowed better while presenting.
 
 IT Foundations – C393: The first part of the Comptia A+. Did all the practise questions on uCertify until I was getting 100% and then went to a testing center and wrote it.
 
-Introduction to Humanities – C100: Took the PA open book. Once I got a the gist of the different periods eg. Romantic was all about hero's, Neoclassical was about ancient buildings, I just went ahead and wrote the OA and passed. The two written parts are very straightforward. Pick a topic you find interesting from the list they give you, research it, write about it.
+**~~Introduction to Humanities – C100~~**: Took the PA open book. Once I got a the gist of the different periods eg. Romantic was all about hero's, Neoclassical was about ancient buildings, I just went ahead and wrote the OA and passed. The two written parts are very straightforward. Pick a topic you find interesting from the list they give you, research it, write about it.
 
 Scripting and Programming - Foundations – C173: This course is very easy if you know how to code already. If not then it's pretty tough. Really have to understand how for loops and while loops work to follow the pseudocode they give you and choose the correct answer.
 
